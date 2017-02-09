@@ -1,0 +1,22 @@
+c:\users\hacksmith\documents\visual studio 2015\Projects\BotCU\BotCU\bin\Debug\BotCU.exe.config
+c:\users\hacksmith\documents\visual studio 2015\Projects\BotCU\BotCU\obj\Debug\BotCU.csprojResolveAssemblyReference.cache
+c:\users\hacksmith\documents\visual studio 2015\Projects\BotCU\BotCU\bin\Debug\BotCU.exe
+c:\users\hacksmith\documents\visual studio 2015\Projects\BotCU\BotCU\bin\Debug\BotCU.pdb
+c:\users\hacksmith\documents\visual studio 2015\Projects\BotCU\BotCU\bin\Debug\Discord.Net.Commands.dll
+c:\users\hacksmith\documents\visual studio 2015\Projects\BotCU\BotCU\bin\Debug\Discord.Net.dll
+c:\users\hacksmith\documents\visual studio 2015\Projects\BotCU\BotCU\bin\Debug\Newtonsoft.Json.dll
+c:\users\hacksmith\documents\visual studio 2015\Projects\BotCU\BotCU\bin\Debug\Nito.AsyncEx.Concurrent.dll
+c:\users\hacksmith\documents\visual studio 2015\Projects\BotCU\BotCU\bin\Debug\Nito.AsyncEx.dll
+c:\users\hacksmith\documents\visual studio 2015\Projects\BotCU\BotCU\bin\Debug\Nito.AsyncEx.Enlightenment.dll
+c:\users\hacksmith\documents\visual studio 2015\Projects\BotCU\BotCU\bin\Debug\RestSharp.dll
+c:\users\hacksmith\documents\visual studio 2015\Projects\BotCU\BotCU\bin\Debug\WebSocket4Net.dll
+c:\users\hacksmith\documents\visual studio 2015\Projects\BotCU\BotCU\bin\Debug\Newtonsoft.Json.xml
+c:\users\hacksmith\documents\visual studio 2015\Projects\BotCU\BotCU\bin\Debug\Nito.AsyncEx.xml
+c:\users\hacksmith\documents\visual studio 2015\Projects\BotCU\BotCU\bin\Debug\Nito.AsyncEx.Concurrent.xml
+c:\users\hacksmith\documents\visual studio 2015\Projects\BotCU\BotCU\bin\Debug\Nito.AsyncEx.Enlightenment.xml
+c:\users\hacksmith\documents\visual studio 2015\Projects\BotCU\BotCU\bin\Debug\RestSharp.xml
+c:\users\hacksmith\documents\visual studio 2015\Projects\BotCU\BotCU\obj\Debug\BotCU.exe
+c:\users\hacksmith\documents\visual studio 2015\Projects\BotCU\BotCU\obj\Debug\BotCU.pdb
+C:\Users\Hacksmith\Documents\GitHub\BotCU\BotCU\BotCU\bin\Debug\BotCU.exe.config
+C:\Users\Hacksmith\Documents\GitHub\BotCU\BotCU\BotCU\obj\Debug\BotCU.exe
+C:\Users\Hacksmith\Documents\GitHub\BotCU\BotCU\BotCU\obj\Debug\BotCU.pdb
