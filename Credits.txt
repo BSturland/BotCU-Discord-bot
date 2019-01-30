@@ -1,0 +1,3 @@
+Created in my first year of university this dicord chat bot used a raspberry PI and bluetoooth to see who was in a specific room, then when asked the bot would post who was in that room.
+
+Auth code has been removed from this script.
